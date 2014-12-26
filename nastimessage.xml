@@ -1,0 +1,21 @@
+<?xml version="1.0"?> 
+ <!-- NASTI Clan Message Checker -->
+ 
+<nastimessage.xml>
+
+		<!-- Author of Mod-Pack -->
+		<Author>MaverickBlue</Author> 
+		
+		 <!-- Current Version(Off-line) -->
+		<Nmessage>Mav says hi!</Nmessage>
+		
+		 <!-- Updated Version (On-line) -->
+		<Clan_Meeting>No meetings scheduled</Clan_Meeting>
+		
+		<!-- Support link -->
+		<Tournament_Battles></Tournament_Battles> 
+		
+		<!-- Updated Message -->
+		<Clan_Wars>No CW battles scheduled</Clan_Wars> 
+
+</nastimessage.xml>
